@@ -1,6 +1,7 @@
 # Coursera-Capstone-Project-MachineLearning-Python
 
->In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they'll like.
+>This was the final project of tthe course Machine Learning with Python by IBM in Coursera
+In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they'll like.
 
 We load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. We use the following algorithms to build our models:
 
